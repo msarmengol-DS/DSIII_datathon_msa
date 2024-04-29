@@ -18,13 +18,13 @@ _This all, following the steps we have learned as best practices._
 👉 Get predictions for the model.  
 👉 Deliver to bbdd the real data and predictions for further data analytics in Power BI.  
 
-## The insights for the project are:
+## The insights from the project are:
 
 🥇 _The delivered prediction is_ 🥇  
 
---jupyter notebook--  
+__jupyter notebook__  
 <img width="679" alt="prediction" src="https://github.com/msarmengol-DS/DSIII_datathon_msa/assets/153068339/dd430267-6f84-4cf8-9328-ab8bd92344f6">
 
---Power BI--  
+__Power BI__  
 <img width="680" alt="image" src="https://github.com/msarmengol-DS/DSIII_datathon_msa/assets/153068339/c277c761-4d2a-465a-b88d-bc4c9701479b">
 
