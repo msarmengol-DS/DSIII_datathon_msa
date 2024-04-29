@@ -2,6 +2,7 @@
 This is the final project of the five months course 'Data Science workcamp' @Codespace.
 It consists in publishing a trained time series predictive model with end-to-end real data.
 The scope of the project is:
+
 👉 Load into bbdd delivered input data from excel files.
 👉 From bbdd, extract dada for working with dataframes to analyze, clean and complete data.
 👉 Split data in train/validation/test.
