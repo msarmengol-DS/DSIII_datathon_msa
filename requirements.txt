@@ -4,14 +4,12 @@ mlflow==2.10.2
 sqlalchemy==1.4.48
 scikit-learn
 requests
-
-import warnings
-import numpy as np
-import matplotlib.pyplot as plt
-import plotly.express as px
-!pip install mlflow
-import mlflow
-
-pip install lazypredict
-
-import lazypredict
+json
+warnings
+numpy as np
+matplotlib.pyplot
+import plotly.express
+mlflow
+lazypredict
+IPython
+pymysql
