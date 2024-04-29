@@ -3,8 +3,6 @@
 This is the final project of the five months course 'Data Science workcamp' @Codespace.
 It consists in publishing a trained time series predictive model with end-to-end real data.  
 
-<img width="588" alt="image" src="https://github.com/msarmengol-DS/DSIII_datathon_msa/assets/153068339/2e98d2a1-169f-4471-84ea-7d748a3e8e01">
-
 ## The scope of the project is:
 👉 Load into bbdd delivered input data from excel files.  
 👉 From bbdd, extract dada for working with dataframes.  
