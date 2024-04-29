@@ -16,10 +16,15 @@ _This all, following the steps we have learned as best practices._
 👉 Create an experimet in MLflow and launch piped runs to select the besto model.  
 👉 Deploy the model's API (python / Docker).  
 👉 Get predictions for the model.  
-👉 Deliver to bbdd the real data and predictions for further data anaytics in Power BI.  
+👉 Deliver to bbdd the real data and predictions for further data analytics in Power BI.  
+
+## The insights for the project are:
 
 🥇 _The delivered prediction is_ 🥇  
 
+--jupyter notebook--  
 <img width="679" alt="prediction" src="https://github.com/msarmengol-DS/DSIII_datathon_msa/assets/153068339/dd430267-6f84-4cf8-9328-ab8bd92344f6">
 
+--Power BI--  
+<img width="680" alt="image" src="https://github.com/msarmengol-DS/DSIII_datathon_msa/assets/153068339/c277c761-4d2a-465a-b88d-bc4c9701479b">
 
