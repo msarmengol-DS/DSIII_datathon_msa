@@ -3,7 +3,7 @@
 This is the final project of the five months course 'Data Science workcamp' @Codespace.
 It consists in publishing a trained time series predictive model with end-to-end real data.  
 
-_This all following the steps have learned as best practices._  
+_This all, following the steps we have learned as best practices._  
 
 <img width="588" alt="2024-04-29 19_27_44-DSIII_datathon_msa_DSIII_Datathon_2_EDA_and_preprocessing ipynb at main · msarme" src="https://github.com/msarmengol-DS/DSIII_datathon_msa/assets/153068339/bfb20661-d21f-456f-85f3-815c51a2e8cb">
 
