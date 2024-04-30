@@ -1,6 +1,6 @@
 # DSIII_datathon_msa
 
-This is the final project of the five months course 'Data Science workcamp' @Codespace.
+This is the final project of the six months course 'Data Science workcamp' @Codespace.
 It consists in publishing a trained time series predictive model with end-to-end real data.  
 
 _This all, following the steps we have learned as best practices._  
@@ -19,8 +19,6 @@ _This all, following the steps we have learned as best practices._
 👉 Deliver to bbdd the real data and predictions for further data analytics in Power BI.  
 
 ## The insights from the project are:
-
-🥇 _The delivered prediction is_ 🥇  
 
 __jupyter notebook__  
 <img width="679" alt="prediction" src="https://github.com/msarmengol-DS/DSIII_datathon_msa/assets/153068339/dd430267-6f84-4cf8-9328-ab8bd92344f6">
