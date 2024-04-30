@@ -13,7 +13,7 @@ _This all, following the steps we have learned as best practices._
 👉 Analyze, clean and complete data, resample, get exogenous variables by API (meteostat).  
 👉 Preprocess and transform data to adapts a time series problem to supervised learning.  
 👉 Split data in train/validation/test (X & y).  
-👉 Create an experimet in MLflow and launch piped runs to select the besto model.  
+👉 Create an experimet in MLflow and launch piped runs to select the best model.  
 👉 Deploy the model's API (python / Docker).  
 👉 Get predictions for the model.  
 👉 Deliver to bbdd the real data and predictions for further data analytics in Power BI.  
