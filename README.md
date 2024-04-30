@@ -10,8 +10,8 @@ _This all, following the steps we have learned as best practices._
 ## The scope of the project is:
 👉 Load into bbdd delivered input data from excel files.  
 👉 From bbdd, extract dada for working with dataframes.  
-👉 Analyze, clean and complete data, resample, get exogenous variables by API (meteostat).  
-👉 Preprocess and transform data to adapts a time series problem to supervised learning.  
+👉 Analyze, clean and complete data, resample, get exogenous variables from API (meteostat).  
+👉 Preprocess and transform data to adapt a time series problem to supervised learning.  
 👉 Split data in train/validation/test (X & y).  
 👉 Create an experimet in MLflow and launch piped runs to select the best model.  
 👉 Deploy the model's API (python / Docker).  
